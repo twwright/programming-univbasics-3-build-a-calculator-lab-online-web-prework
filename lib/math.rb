@@ -1,29 +1,29 @@
 def addition(num1, num2)
   added = num1 + num2
-  returns added
+  return added
 end
 
 def subtraction(num1, num2)
   subtracted = num1 - num2
-  returns subtracted
+  return subtracted
 end
 
 def division(num1, num2)
   divided = num1 / num2
-  returns divided
+  return divided
 end
 
 def multiplication(num1, num2)
   multiplied = num1 * num2
-  returns multiplied
+  return multiplied
 end
 
 def modulo(num1, num2)
   modulod = num1 & num2
-  returns modulod
+  return modulod
 end
 
 def square_root(num)
   rooted = Math.sqrt(num)
-  returns rooted
+  return rooted
 end
